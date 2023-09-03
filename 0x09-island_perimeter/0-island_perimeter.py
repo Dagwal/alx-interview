@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""Island perimeter."""
+
 
 def island_perimeter(grid):
     """the perimeter of an island described in grid
